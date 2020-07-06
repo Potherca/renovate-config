@@ -54,10 +54,13 @@ The decision for which location to use was made as follows:
 2. The config file contains JSON, so the file without an extension is not an option.
 3. To stay cross-vendor compatible, the GitHub and GitLab specific variants aren't an option
 
-That leaves the choice between `.renovaterc.json`.
-
-
 So the final decision is to use `.renovaterc.json`
+
+<!--
+## Configuration settings
+
+    @TODO: Write details on cofiguration and link there
+-->
 
 ## Contributing
 
@@ -67,7 +70,6 @@ Questions or feedback can be given by [opening an issue](https://github.com/Poth
 @TODO: Link to a CONTRIBUTING file
 @TODO: Link to a Code of Conduct
 -->
-
 
 ## License
 
