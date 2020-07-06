@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="129" height="20">
+  <linearGradient id="s" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <clipPath id="r">
+    <rect width="129" height="20" rx="3" fill="#fff"/>
+  </clipPath>
+  <g clip-path="url(#r)">
+    <rect width="76" height="20" fill="#555"/>
+    <rect x="76" width="53" height="20" fill="#97ca00"/>
+    <rect width="129" height="20" fill="url(#s)"/>
+  </g>
+  <svg x="5" y="3" width="14" height="14" xmlns="http://www.w3.org/2000/svg" viewBox="5 5 370 370"><circle cx="189" cy="190" r="184" fill="#fe2"/><path fill="#8bb" d="M251 256l-38-38a17 17 0 010-24l56-56c2-2 2-6 0-7l-20-21a5 5 0 00-7 0l-13 12-9-8 13-13a17 17 0 0124 0l21 21c7 7 7 17 0 24l-56 57a5 5 0 000 7l38 38z"/><path fill="#d51" d="M300 288l-8 8c-4 4-11 4-16 0l-46-46c-5-5-5-12 0-16l8-8c4-4 11-4 15 0l47 47c4 4 4 11 0 15z"/><path fill="#b30" d="M285 258l7 7c4 4 4 11 0 15l-8 8c-4 4-11 4-16 0l-6-7c4 5 11 5 15 0l8-7c4-5 4-12 0-16z"/><path fill="#a30" d="M291 264l8 8c4 4 4 11 0 16l-8 7c-4 5-11 5-15 0l-9-8c5 5 12 5 16 0l8-8c4-4 4-11 0-15z"/><path fill="#e62" d="M260 233l-4-4c-6-6-17-6-23 0-7 7-7 17 0 24l4 4c-4-5-4-11 0-16l8-8c4-4 11-4 15 0z"/><path fill="#b40" d="M284 304c-4 0-8-1-11-4l-47-47c-6-6-6-16 0-22l8-8c6-6 16-6 22 0l47 46c6 7 6 17 0 23l-8 8c-3 3-7 4-11 4zm-39-76c-1 0-3 0-4 2l-8 7c-2 3-2 7 0 9l47 47a6 6 0 009 0l7-8c3-2 3-6 0-9l-46-46c-2-2-3-2-5-2z"/><path fill="#1cc" d="M152 113l18-18 18 18-18 18zm1-35l18-18 18 18-18 18zm-90 89l18-18 18 18-18 18zm35-36l18-18 18 18-18 18z"/><path fill="#1dd" d="M134 131l18-18 18 18-18 18zm-35 36l18-18 18 18-18 18z"/><path fill="#2bb" d="M116 149l18-18 18 18-18 18zm54-54l18-18 18 18-18 18zm-89 90l18-18 18 18-18 18zm139-85l23 23c4 4 4 11 0 16L142 240c-4 4-11 4-15 0l-24-24c-4-4-4-11 0-15l101-101c5-5 12-5 16 0z"/><path fill="#3ee" d="M134 95l18-18 18 18-18 18zm-54 18l18-17 18 17-18 18zm55-53l18-18 18 18-18 18zm93 48l-8-8c-4-5-11-5-16 0L103 201c-4 4-4 11 0 15l8 8c-4-4-4-11 0-15l101-101c5-4 12-4 16 0z"/><path fill="#9ee" d="M27 131l18-18 18 18-18 18zm54-53l18-18 18 18-18 18z"/><path fill="#0aa" d="M230 110l13 13c4 4 4 11 0 16L142 240c-4 4-11 4-15 0l-13-13c4 4 11 4 15 0l101-101c5-5 5-11 0-16z"/><path fill="#1ab" d="M134 248c-4 0-8-2-11-5l-23-23a16 16 0 010-23L201 96a16 16 0 0122 0l24 24c6 6 6 16 0 22L146 243c-3 3-7 5-12 5zm78-147l-4 2-101 101a6 6 0 000 9l23 23a6 6 0 009 0l101-101a6 6 0 000-9l-24-23-4-2z"/></svg>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+    <text x="475" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="490">renovate</text>
+    <text x="475" y="140" transform="scale(.1)" textLength="490">renovate</text>
+    <text x="1015" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="430">enabled</text>
+    <text x="1015" y="140" transform="scale(.1)" textLength="430">enabled</text>
+  </g>
+</svg>
